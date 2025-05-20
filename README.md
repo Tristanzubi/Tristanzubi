@@ -1,10 +1,16 @@
 # 👋 Salut, moi c’est Tristan Zubiarraín
 
 🎯 En reconversion vers le **développement web**  
-📍 Basé en Pays de la Loire / Nantes  
 🎓 Formation en cours à la Wild Code School  
-🔧 Ancien chaudronnier devenu passionné de code  
-💻 En ce moment, je travaille sur un site de réservation de restaurant avec Express.js
+📍 Basé en Pays de la Loire / Nantes  
+
+
+---
+
+## ⚡ À propos de moi
+
+Curieux et persévérant, j’aime comprendre comment les choses fonctionnent, que ce soit en tech ou dans la vie quotidienne.  
+Je suis motivé par l’envie d’apprendre en continu et de construire des projets concrets qui ont du sens.
 
 ---
 
@@ -22,25 +28,33 @@
 
 ## 📚 Ce que j’apprends en ce moment
 
-- Développement backend avec Express.js
-- Utilisation de bases de données relationnelles (MySQL)
-- Travail en équipe avec Git & GitHub (workflow professionnel)
-- Méthodologie Agile (SCRUM)
+- Développement backend avec Express.js  
+- Utilisation de bases de données relationnelles (MySQL)  
+- Travail en équipe avec Git & GitHub (workflow professionnel)  
+- Méthodologie Agile (SCRUM)  
+- Amélioration de mes compétences en algorithmie via [Codewars](https://www.codewars.com/users/Tristanzubi)
 
 ---
 
 ## 📂 Projets récents
 
-- 🎮 [Quiz Frontend (Projet 1)](https://github.com/TON_UTILISATEUR/quiz-projet1)
-- 🍽️ [Réservation de restaurant (Projet 2)](https://github.com/TON_UTILISATEUR/restaurant-reservation)
-- ⚙️ [API REST Express (Projet 3)](https://github.com/TON_UTILISATEUR/api-express)
+- 🎮 [WestDevsQuiz (Projet 1)](https://github.com/Tristanzubi/WestDevsQuiz)  
+- 🧠 [Excuse Maker](https://github.com/Tristanzubi/api-express)  
+- 🍽️ [LeVendeeBrass (Projet 2)](https://github.com/Tristanzubi/restaurant-reservation)
 
 ---
 
 ## 🤝 Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/TON-PROFIL/)
-- Email : ton.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/tristan-zubiarrain-825a37325/)  
+- Email : tristanzubiarrain15@gmail.com
+
+---
+
+## 🙋‍♂️ Un peu plus sur moi
+
+En dehors du code, je suis passionné de **rugby** et d’**ultratrail**. J’aime relever des défis, me dépasser et partager des moments forts en équipe.  
+Ces expériences m’apprennent la rigueur, l’endurance et l’importance de la coopération — autant de qualités que j’applique dans ma reconversion.
 
 ---
 
