@@ -40,8 +40,8 @@ Je suis motivé par l’envie d’apprendre en continu et de construire des proj
 ## 📂 Projets récents
 
 - 🎮 [WestDevsQuiz (Projet 1)](https://github.com/Tristanzubi/WestDevsQuiz)  
-- 🧠 [Excuse Maker](https://github.com/Tristanzubi/api-express)  
-- 🍽️ [LeVendeeBrass (Projet 2)](https://github.com/Tristanzubi/restaurant-reservation)
+- 🧠 [Excuse Maker](https://github.com/Tristanzubi/excuse_maker)  
+- 🍽️ [LeVendeeBrass (Projet 2)](https://github.com/Tristanzubi/LeVendeeBrass)
 
 ---
 
