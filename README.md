@@ -1,8 +1,9 @@
 # 👋 Salut, moi c’est Tristan Zubiarraín
 
-🎯 En reconversion vers le **développement web**  
+🎯 En formation au **développement web**  
 🎓 Formation en cours à la Wild Code School  
 📍 Basé en Pays de la Loire / Nantes  
+🌱 Actuellement à la recherche d'une **alternance** en développement web.
 
 
 ---
