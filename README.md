@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Tristan Zubiarraín
+# 👋 Salut, moi c’est Tristan Zubiarrain
 
 🎯 En formation au **développement web**  
 🎓 Formation en cours à la Wild Code School  
