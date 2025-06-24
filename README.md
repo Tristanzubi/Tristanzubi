@@ -3,7 +3,7 @@
 🎯 En formation au **développement web**  
 🎓 Formation en cours à la Wild Code School  
 📍 Basé en Pays de la Loire / Nantes  
-💼 Recherche alternance pour mettre en pratique mes compétences.
+💼 Recherche alternance ou stage pour mettre en pratique mes compétences.
 
 
 ---
