@@ -41,7 +41,9 @@ Je suis motivé par l’envie d’apprendre en continu et de construire des proj
 
 - 🎮 [WestDevsQuiz (Projet 1)](https://github.com/Tristanzubi/WestDevsQuiz)  
 - 🧠 [Excuse Maker](https://github.com/Tristanzubi/excuse_maker)  
-- 🍽️ [LeVendeeBrass (Projet 2)](https://github.com/Tristanzubi/LeVendeeBrass)
+- 🍽️ [LeVendeeBrass (Projet 2)](https://github.com/Tristanzubi/LeVendeeBrass)  
+- 🎨 [Galerie d’art (Projet 3 fullStack – en cours)](https://github.com/wildcodeschool-2025-03/JS-WestDevs-P3-CreaNova)
+
 
 ---
 
